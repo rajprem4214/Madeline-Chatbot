@@ -4,6 +4,14 @@
 
 This project is a FastAPI-based web application. It is designed to provide a secure conversation platform for registered users. The main functionality of this version is to authenticate the user and return a static conversation message.
 
+## Sample Video
+
+
+https://github.com/rajprem4214/Madeline-Chatbot/assets/85401522/7054bb0d-1eff-4e1d-87de-49c372fb296e
+
+
+
+
 ## Setup
 
 This project uses FastAPI and SQLAlchemy, and it requires Python 3.7+.
