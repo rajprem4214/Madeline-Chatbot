@@ -10,6 +10,11 @@ This project uses FastAPI and SQLAlchemy, and it requires Python 3.7+.
 
 To start the application, navigate to the project folder and execute the command:
 
+Clone the repository
+
+Run the command `pip install -r requirements.txt`
+
+Run
 python main.py
 
 The application will be available at `http://localhost:5555`.
