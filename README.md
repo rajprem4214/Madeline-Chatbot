@@ -21,6 +21,14 @@ The application will be available at `http://localhost:5555`.
 
 Visit `http://localhost:5555/docs` for testing API endpoints.
 
+## Technologies Used
+1. FastAPI 
+2. PostgreSQL
+3. AsyncIO
+4. Pydantic
+5. OpenAI/Or Gemini
+6. Langchain
+
 ## Key Features
 
 - User registration and authentication system with OAuth2.
